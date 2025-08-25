@@ -5,8 +5,8 @@ function Name() {
   return (
     <div className="name-card">
       <h1 className="name-title">G ASWINI</h1>
-      <p className="name-subtitle">B.E Computer Science Engineering</p>
-      <p className="name-college">Saveetha Engineering College</p>
+      <p className="name-subtitle">Department:B.E CSE</p>
+      <p className="name-college">Register No.:212224040037</p>
     </div>
   );
 }

@@ -4,13 +4,12 @@ import "./prof.css";
 function Profile() {
   return (
     <div className="profile-card">
-      {/* Image from public folder */}
       <img src="/ME PASSPORT PHOTO.jpg" alt="G Aswini" className="profile-img" />
 
       <div className="name">
         <h1>G ASWINI</h1>
-        <p>B.E Computer Science Engineering</p>
-        <p>Saveetha Engineering College</p>
+        <p>Department:B.E CSE</p>
+        <p>Register No.:212224040037</p>
       </div>
 
       <div className="profile-section">
@@ -31,7 +30,6 @@ function Profile() {
         </ul>
       </div>
 
-      {/* 👉 Added Learning Journey Section */}
       <div className="profile-section">
         <h2>Learning Journey</h2>
         <p>
